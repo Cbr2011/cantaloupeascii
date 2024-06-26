@@ -1,0 +1,1 @@
+mplayer -vo caca "assets/cantalope.mpg"
