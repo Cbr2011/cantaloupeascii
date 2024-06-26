@@ -7,4 +7,4 @@ Run
 # In case if it just shows the commands when you open the .sh file
 Give the .sh file permissions via `chmod +x "path/to/the/cantalope.sh"`
 
-this can have customizable things like you can change the video file in assets/ whatever you want (as long it has the file name as "cantalope" and the file type is mpg unless you edit the sh file for mp4)
+this can have customizable things like you can change the video file in assets/ to whatever you want (as long it has the file name as "cantalope" and the file type is mpg unless you edit the sh file for mp4)
