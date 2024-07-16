@@ -1,3 +1,4 @@
+## Tested on Linux Mint 21.3
 This is only for linux. Windows Subsystem for Linux might work for this but I really don't know
 <h1>Required libraries</h1>
 Run
